@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChickenTheSlayer)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChickenTheSlayer&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChickenTheSlayer)](https://github.com/anuraghazra/github-readme-stats)
