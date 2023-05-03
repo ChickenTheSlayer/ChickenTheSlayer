@@ -3,13 +3,16 @@
 </div>
 
 ### 👋 Hi there, welcome to my GitHub portfolio 👋
-My name is Jeffrey Chang and I am currently studying Information Technology in my 3rd year at the school of EECS at KTH Royal Institute of Tecnology in Stockholm. Check out my experience and education from my LinkedIn:
+My name is Weichen Chai and I am a student in the bachelor program of information and communication technology at KTH Royal Institute of Technology
+
+Check out my experience and education from my LinkedIn:
+
+
 <div id="badges">
-  <a href="https://www.linkedin.com/in/jeffrey-chang-914a571b5/">
+  <a href="https://www.linkedin.com/in/weichen-chai-897479222/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <div align="center">
-  <img src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="600" height="300"/>
 </div>
 
  ---
