@@ -23,10 +23,12 @@ Check out my experience and education from my LinkedIn:
   
   ---
 👨‍💻 Some projects I have worked on:
-- [ID1018 -](https://gits-15.sys.kth.se/weichenc/ID1018)[ Programming 1](https://github.com/zwjc/ID1018-Labb)
-- [IS1200 - Computer Hardware Engineering](https://github.com/zwjc/IS1200-Projekt)
-- [ID1021 - Algorithms and Data Structures](https://github.com/zwjc/id1021)
-- [IK1203 - Network and Communication](https://github.com/zwjc/ik1203)
+- [ID1018 -](https://www.kth.se/student/kurser/kurs/ID1018)[ Programming 1](https://gits-15.sys.kth.se/weichenc/ID1018)
+- [IS1200 -](https://www.kth.se/student/kurser/kurs/IS1200?l=en) [Computer Hardware Engineering](https://github.com/zwjc/IS1200-Projekt)
+- [ID1021 -](https://www.kth.se/student/kurser/kurs/ID1021) [Algorithms and Data Structures](https://github.com/ChickenTheSlayer/ID1206)
+- [IK1203 -](https://www.kth.se/student/kurser/kurs/IK1203?l=en) [Network and Communication](https://github.com/zwjc/ik1203)
+- [ID1206 -](https://www.kth.se/student/kurser/kurs/ID1206) [Operating Systems](https://github.com/ChickenTheSlayer/ID1206)
+
 
   ---
 ### :hammer_and_wrench: Languages and Tools:
