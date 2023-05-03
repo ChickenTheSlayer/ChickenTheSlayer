@@ -1,6 +1,4 @@
-<div id = "header", align="center">
-  <img src = "https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" , width ="150"/>
-</div>
+
 
 ### 👋 Hi there, welcome to my GitHub portfolio 👋
 My name is Weichen Chai and I am a student in the bachelor program of information and communication technology at KTH Royal Institute of Technology
@@ -18,7 +16,7 @@ Check out my experience and education from my LinkedIn:
  ---
 
 ### :smile: About Me:
-  - 🌱  I’m currently in my third year studying IT at KTH
+  - 🌱 I am currently in my second year studying IT at KTH
   - 💬 I am experienced with working on projects in large teams
   - ⚡ In my free time, I enjoy solving problems on LeetCode
   - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Weichen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/weichen-chai-897479222/)
@@ -33,12 +31,12 @@ Check out my experience and education from my LinkedIn:
   ---
 ### :hammer_and_wrench: Languages and Tools:
   <div>
+    <a href="https://www.latex-project.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="Latex" width="40" height="40"/>
   <a href="https://www.java.com/en/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <a href="https://html.com/html5/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <a href="https://www.latex-project.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="Latex" width="40" height="40"/>
   <a href="https://atom.io/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="Atom" **alt="Atom" width="40" height="40"/>
   <a href="https://www.arduino.cc/">
@@ -49,9 +47,7 @@ Check out my experience and education from my LinkedIn:
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack Workspace" **alt="Slack" width="40" height="40"/>
   <a href="https://trello.com/en">
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello Workspace" **alt="Trello" width="40" height="40"/>
-  <a href="https://matlab.mathworks.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" **alt="Matlab" width="40" height="40"/>
-   
+ 
   ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwjc&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
