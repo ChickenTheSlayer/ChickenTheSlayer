@@ -45,40 +45,11 @@ Check out my experience and education from my LinkedIn:
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C Programming Language" **alt="C" width="40" height="40"/>
   <a href="https://slack.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack Workspace" **alt="Slack" width="40" height="40"/>
-  <a href="https://trello.com/en">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello Workspace" **alt="Trello" width="40" height="40"/>
+
  
   ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwjc&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zwjc&theme=radical&border_radius=3)](https://git.io/streak-stats)
-</div>
-<!--
-**zwjc/zwjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChickenTheSlayer)](https://github.com/anuraghazra/github-readme-stats)
 
-😄 About Me:
-- 🌱  I’m currently in my third year studying IT at KTH
-- 💬 I am experienced with working on projects in large teams
-- 📫 How to reach me: 
-- ⚡ In my free time, I enjoy solving problems on LeetCode
--->
-Some projects I have worked on:
+
 
