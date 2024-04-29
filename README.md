@@ -18,7 +18,7 @@ Check out my experience and education from my LinkedIn:
  ---
 
 ### :smile: About Me:
-  - 🌱 I am currently in my second year studying IT at KTH
+  - 🌱 I am currently in my Final year studying IT at KTH
   - 💬 I am experienced with working on projects in large teams
   - ⚡ In my free time, I enjoy solving problems on LeetCode
   - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Weichen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/weichen-chai-897479222/)
