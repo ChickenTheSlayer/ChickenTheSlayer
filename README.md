@@ -3,7 +3,7 @@
 </div>
 
 ### 👋 Hi there, welcome to my GitHub portfolio 👋
-My name is Weichen Chai and I am a student in the bachelor program of information and communication technology at KTH Royal Institute of Technology
+My name is Weichen Chai and I am a student in the Masters program of Artificial intelligence at Nanyang Technological University
 
 Check out my experience and education from my LinkedIn:
 
@@ -18,13 +18,14 @@ Check out my experience and education from my LinkedIn:
  ---
 
 ### :smile: About Me:
-  - 🌱 I am currently in my Final year studying IT at KTH
+  - 🌱 I am currently in my Final year studying AI at NTU
   - 💬 I am experienced with working on projects in large teams
   - ⚡ In my free time, I enjoy solving problems on LeetCode
   - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Weichen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/weichen-chai-897479222/)
   
   ---
 👨‍💻 Some projects I have worked on:
+- [Leetcode Top 100 liked questions -](https://leetcode.com/problem-list/79h8rn6/)[ Leetcode solutions](https://github.com/ChickenTheSlayer/Leetcode-Hot-100/tree/main)
 - [We(the)r It -](https://weichenchai.wixsite.com/sierra) [Weather application](https://github.com/SierraWeatherApp/WeatherApp)
 - [ID1018 -](https://www.kth.se/student/kurser/kurs/ID1018)[ Programming I](https://gits-15.sys.kth.se/weichenc/ID1018)
 - [IS1200 -](https://www.kth.se/student/kurser/kurs/IS1200?l=en) [Computer Hardware Engineering](https://github.com/ChickenTheSlayer/IS1200)
